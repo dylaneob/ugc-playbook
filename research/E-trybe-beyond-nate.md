@@ -17,14 +17,13 @@ Researched 2026-10-06. Nate West (@watedontwait) excluded. Labels: [CLAIM] = cre
 
 Repeat complaints: approved but never run; requests pending for weeks; unclear approval scoring; no guarantee a brand pays (ToS 8.2, https://jointrybe.com/creator/terms-of-service).
 
-## 2. Founders, funding, Haus
+## 2. Founders and funding
 
 - **Co-founder Lukas Pakter: VERIFIED via two third-party listings** (Trybe's homepage names no founders). The Elevator Talks podcast (publisher Elevator Goods, host Monish Sabnani) lists an episode dated Jul 31 (year not shown, presumably 2026) titled Lukas Pakter: The Trybe Creator Growth Playbook, and calls him Trybe's co-founder. https://podcasts.apple.com/us/podcast/elevator-talks/id1896325680 The blurb says he uploads 5,500+ ads a month [CLAIM]. https://videohighlight.com/v/6ei4p6f8DtM
 - **Correction.** One summary said Pakter previously ran Elevator Goods, a clothing brand. The podcast listing shows Elevator Goods is an e-commerce education, capital and community firm. Treat the clothing claim as UNVERIFIED and probably wrong. Whether Elevator holds a stake in Trybe: no source found.
 - **Entity.** Trybe Tech, Inc., 600 Guadalupe St, Unit 4416, Austin, TX 78701; Texas law governs (ToS 10.6). https://jointrybe.com/creator/terms-of-service The homepage footer says Trybe, Inc. 2026. https://jointrybe.com Other co-founders, CEO, owners, investors, funding: no source found.
 - **Name collisions, do not use.** Crunchbase, Tracxn and Dealroom hits for Trybe are mostly a Brazilian edtech (https://global-edtech.com/brazilian-edtech-startup-trybe-raises-us9-2-million/), an Australian kids' footwear brand (https://www.cbinsights.com/compare/everyhuman-vs-the-trybe) and an older social app (https://www.orilliamatters.com/local-news/former-orillian-co-founds-game-changer-social-media-platform-2758545).
 - **Unread leads.** Pakter on Sett The Tone https://www.podserve.fm/series/website/sett-the-tone,8440/132435 and The Hard Way With Joe De Sena https://spartanuppodcast.libsyn.com/webpage/2023/11/28 (page loaded header only).
-- **Haus link: UNVERIFIED.** The homepage shows Haus as a logo image (haus.81c11860.png) with no alt text or link, so it does not say which Haus. https://jointrybe.com A search summary ties Pakter to SquidHaus, men's fitness apparel (founded 2022, Liberty Hill TX, 8 staff, per https://www.premieralts.com/companies/squidhaus, which redirected and then rate-limited me; also https://aim2flourish.com/innovations/achieve-receive-repeat). I could not load any page naming him SquidHaus's founder, and nothing ties the logo to SquidHaus. The aperitif Haus was founded by Helena Price Hambrecht and Woody Hambrecht (https://techcrunch.com/2020/01/30/haus-raises-4-5-million-to-replace-your-wine-club-membership); no link to Trybe's founders found. Fastest check: open the Haus program in the app, or the logo file itself.
 
 ## 3. How the profile works and how brands find you
 
@@ -66,4 +65,4 @@ Repeat complaints: approved but never run; requests pending for weeks; unclear a
 
 ## Gaps to close by hand
 
-Search Reddit and X directly for Trybe. Open the Chrome Web Store listing in a real browser. Listen to the Pakter episode for co-founder names and funding. Check what Haus the logo is.
+Search Reddit and X directly for Trybe. Open the Chrome Web Store listing in a real browser. Listen to the Pakter episode for co-founder names and funding.

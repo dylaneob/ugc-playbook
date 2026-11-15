@@ -111,7 +111,7 @@ Two kinds, both written as film sheets (one card per ad: code, hook, body lines,
 - **Submission floor** (course claim): no verdict on a brand or the method before 300 submissions; pace 3 to 5 a day; 100 to 200 videos for a brand that never spends is reps, move on.
 
 ## 6. edit
-Follow `rules/editing-rules.md`. The short version: zero dead space by cuts (never a speed-up), last clean take of each line only, words AND eyes decide the best take, no scraps, bodies differ, copies word for word, B-roll matches the words, captions in one brand font and never over the face, licensed or original audio only on paid ads, releases from anyone else on camera. Check every render against the script before it goes out.
+Follow `rules/editing-rules.md`. The short version: zero dead space by cuts (never a speed-up), last clean take of each line only, words AND eyes decide the best take, no scraps, bodies differ, copies word for word, B-roll matches the words, captions in one brand font and never over the face, licensed or original audio only on paid ads, releases from anyone else on camera. Check every render against the script before it goes out. A new edit look gets one mock frame sheet for the creator's OK before the whole batch renders. In multi-take shoots creators ad-lib, so pick the best take per line by hand from the transcript, then re-transcribe the cut audio to confirm it.
 
 ## 7. submit and track
 - The creator submits in the Trybe app or the brand's folder. Never submit for them.

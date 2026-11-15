@@ -8,7 +8,7 @@ Everything here came from real batches and the lessons OB studied from the top U
 
 Repo: https://github.com/dylaneob/ugc-playbook (public, no login needed to clone).
 
-**Claude Code (desktop app or terminal):** open a session and paste:
+**Claude Code** (install it first: the Claude desktop app's Code tab, or claude.com/claude-code). Open a session and paste (any folder works instead of `~/ugc-playbook`; Claude just needs to know where it is):
 
 > Clone https://github.com/dylaneob/ugc-playbook into `~/ugc-playbook`, copy `skills/ugc` into `~/.claude/skills/ugc` and `agents/ugc-ad-grader.md` into `~/.claude/agents/`, then read `README.md` and help me fill in `CREATOR.md`. From now on use the /ugc skill for all my UGC work, with `~/ugc-playbook` as the repo root.
 
