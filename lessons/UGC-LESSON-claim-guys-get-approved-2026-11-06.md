@@ -1,8 +1,8 @@
 # Getting approved by brands (Claim Guys Whop mentorship, 2026-11-06)
-Source: "HOW TO GET APPROVED BY BRANDS" PDF from the Claim Guys Whop community (Trybe mentorship OB joined 11-06). Copy in `sources/CLAIM-GUYS-HOW-TO-GET-APPROVED-BY-BRANDS.pdf`.
+Source: "HOW TO GET APPROVED BY BRANDS" PDF from the Claim Guys Whop community (Trybe mentorship OB joined 11-06). This card is a summary in our own words; the PDF itself is not included.
 
-## The request message (their template, adapt it each time)
-> Hey [Brand] team, my name is OB. I was looking through your Meta ad library and got really inspired by the style of creatives you're running right now. I understand commission-based UGC and long-term creator partnerships, so instead of just applying, I went ahead and filmed a creative concept for you to check out. Would love to work together if you think my style fits the brand.
+## The request message (adapt it each time)
+The gist, in our words: introduce yourself, say you went through their Meta ad library and liked the creative style they're running, show you understand commission UGC and long-term partnerships, and say that instead of just applying you filmed a concept for them to look at. Close by saying you'd like to work together if your style fits.
 
 Why it works: it proves he studied their ads, speaks their model (commission, long-term), and attaches a finished concept instead of asking. The "bad" message is generic praise plus asking for free product.
 
