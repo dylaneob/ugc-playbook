@@ -6,7 +6,7 @@ Everything here came from real batches and the lessons OB studied from the top U
 
 ## Give it to your Claude (2 minutes)
 
-The repo is private: https://github.com/dylaneob/ugc-playbook. Accept the GitHub invite first (check your email or github.com/notifications), and be logged in to GitHub on your computer (`gh auth login`, or GitHub Desktop).
+Repo: https://github.com/dylaneob/ugc-playbook (public, no login needed to clone).
 
 **Claude Code (desktop app or terminal):** open a session and paste:
 
