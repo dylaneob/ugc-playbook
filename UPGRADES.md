@@ -2,6 +2,10 @@
 
 What OB added to the system, newest first. Each line points to where it lives.
 
+- **2026-11-20** Creative winning variables: Winner / Loser / Candidate / Random labels, a variable library per brand, one one-variable test per batch on top of the variations. `lessons/UGC-LESSON-drive-creative-winning-variables-2026-11-20.md`
+- **2026-11-20** Hook anatomy: copy, scroll stopper and audio lines on every hook, three levers, library #53 look-closer and #54 micro hook + qualifier. `lessons/UGC-LESSON-ig-Df8YYzoEeiu-hook-anatomy-2026-11-20.md`
+- **2026-11-19** Viral-trend sweep: eight viral first lines on one body, library #47 to #52 and new wordings on #2 and #7. `lessons/UGC-LESSON-tiktok-ZPN8G7He2-viral-trend-sweep-2026-11-19.md`, `research/UGC-PLAYBOOK-CREATOR-CATALOGS-2026-11-06.md`
+- **2026-11-19** Trybe Top 100 trends across six snapshots (Nov 9 to Nov 19). `research/TRYBE-TOP100-TRENDS-2026-11-19.md`
 - **2026-11-14** Trybe Top 100 trends across five snapshots: price-shock "This is how much??", call-outs aimed at a category claim, lived-state POV, labeled comparisons, gift hooks. `research/TRYBE-TOP100-TRENDS-2026-11-14.md`
 - **2026-11-10** Specific "If you are" hook: stack qualifiers until one viewer feels named. `lessons/UGC-LESSON-ig-DfkOpDCg-specific-if-you-are-2026-11-10.md`
 - **2026-11-10** "Stay away / not because" upgrade: "unlike the rest of the category", "which is crazy given...", a real proof number, variant-pick close. `lessons/UGC-LESSON-tiktok-ZPLGUvpjD-stay-away-bought-before-sale-2026-11-10.md`
